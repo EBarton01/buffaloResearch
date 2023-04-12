@@ -5,7 +5,7 @@ import struct
 import time
 import pickle
 import numpy as np
-
+#test code
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # client_socket.connect(('0.tcp.ngrok.io', 19194))
